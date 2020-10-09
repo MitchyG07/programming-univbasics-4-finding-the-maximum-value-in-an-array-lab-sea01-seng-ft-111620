@@ -10,4 +10,3 @@ def find_max_value(array)
     end
 end 
 
-puts find_max_value([1,45,43,32])
