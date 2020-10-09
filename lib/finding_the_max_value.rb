@@ -10,4 +10,6 @@ def find_max_value(array)
     end
 end
 
-puts find_max_value([13, 14, 17, 14, 25])
+array = [1,2,3]
+new_array = array.sort.reverse()
+puts new_array 
