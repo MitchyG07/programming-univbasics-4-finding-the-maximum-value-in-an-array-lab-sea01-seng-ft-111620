@@ -12,4 +12,4 @@ end
 
 array = [1,2,3]
 new_array = array.sort.reverse()
-puts new_array 
+puts new_array[-1]
