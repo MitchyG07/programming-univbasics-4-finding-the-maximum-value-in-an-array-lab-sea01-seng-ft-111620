@@ -1,3 +1,9 @@
 def find_max_value(array)
-  # Add your solution here
+  counter = 0 
+  new_array = array.sort.reverse()
+  max_value = -1 
+    while counter < array.length do 
+      if array[counter] == array.max
 end
+
+puts
